@@ -487,6 +487,9 @@
 
 
 /*-- Padding Top --*/
+.pt-0{
+	padding-top: 0px;
+}
 
 .pt-5 {
 	padding-top: 5px;
