@@ -1,0 +1,25 @@
+<svg width="1920.183" height="1075.636" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <defs stroke="null">
+  <clipPath stroke="null" style="vector-effect: non-scaling-stroke;" id="clip-path">
+   <path stroke="null" style="vector-effect: non-scaling-stroke;" fill="url(#linear-gradient)" d="m44.886115,493.763559s95.269,204.193 401.21,161.147s419.656,-32.1 544.188,96.892s343.977,107.54 572.909,67.066s360.19,68.158 401.79,142.968c0.041,-2.4 -0.074,-1075.621 -0.074,-1075.621l-1920,0.011l-0.023,607.537z" id="Path_199"/>
+  </clipPath>
+  <linearGradient stroke="null" style="vector-effect: non-scaling-stroke;" gradientUnits="objectBoundingBox" y2="1" x2="0.5" x1="0.5" id="linear-gradient">
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" stop-color="#361cc1" offset="0"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" stop-color="#2e82ef" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <g stroke="null" id="Group_112">
+   <path stroke="null" fill="url(#linear-gradient)" opacity="0.11" d="m-341.383265,899.733642s120.629741,392.519644 481.90158,313.233437s530.982258,15.666825 645.764885,188.029709s422.907956,154.310945 697.842389,85.677591s436.210499,68.369978 480.885422,179.02746c0.019218,0.026174 -0.448022,-1759.567489 -0.448022,-1759.567489l-2305.893404,-0.044169l-0.05285,993.643462z" id="Path_195"/>
+   <path stroke="null" fill="url(#linear-gradient)" d="m-341.3136,899.982296s114.430696,334.03529 481.906385,263.61719s504.062476,-52.511755 653.641912,158.503706s413.161966,175.922559 688.13964,109.711943s432.635928,111.498324 482.603042,233.878523c0.049246,-3.926113 -0.088884,-1759.587119 -0.088884,-1759.587119l-2306.174469,0.017995l-0.027626,993.857762z" id="Path_194"/>
+   <g stroke="null" clip-path="url(#clip-path)" id="Mask_Group_6">
+    <path stroke="#361cc1" opacity="0.14" stroke-width="128" fill="none" d="m-148.418058,769.083275s209.287735,-641.340297 981.845372,-417.201805s1044.282644,126.726733 1268.58934,-759.018977" id="Path_4"/>
+   </g>
+  </g>
+ </g>
+</svg>
