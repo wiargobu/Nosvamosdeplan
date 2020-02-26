@@ -29,6 +29,13 @@
 /*===========================
      01.COMMON css 
 ===========================*/
+
+.counter {
+    text-align: center;
+    font-size: 70px;
+    color : #ffffff;
+}
+
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Lato:300,400,700&display=swap");
 body {
   font-family: "Lato", sans-serif;
