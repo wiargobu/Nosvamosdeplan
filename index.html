@@ -57,6 +57,48 @@
                         de tratamiento de datos personales de la Alcaldía de Bucaramanga.
                     </label>
                 </div>
+                <div class="counter">Ya vamos 0 ciudadanos que nos fuimos de plan </div>
+                <script src="https://static.codepen.io/assets/common/stopExecutionOnTimeout-157cd5b220a5c80d4ff8e0e70ac069bffd87a61252088146915e8726e5d9f147.js"></script>
+
+                <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+
+                <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/TweenMax.min.js'></script>
+
+                <script id="rendered-js">
+
+                    function count() {
+  
+                        var counter = { var: 0 };
+  
+                        TweenMax.to(counter, 3, {
+    
+                            var: 100,
+    
+                            onUpdate: function () {
+      
+                                var number = Math.ceil(counter.var);
+      
+                                $('.counter').html(number);
+     
+                                if (number === counter.var) {count.kill();}
+   
+                            },
+    
+                            onComplete: function () {
+      
+                                count();
+   
+                            },
+   
+                            ease: Circ.easeOut });
+
+
+                    }
+                    count();
+
+                    //# sourceURL=pen.js
+    
+                </script>
                 <a href="https://nosvamosdeplan.typeform.com/to/FSot8D" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Participa</a>
                 <br>
                 <br>
