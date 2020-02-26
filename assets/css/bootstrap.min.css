@@ -3540,8 +3540,8 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
     position: relative;
     display: block;
     min-height: 1.5rem;
-    padding-left: 5.5rem;
-    padding-right: 5.5rem;
+    padding-left: 7.5rem;
+    padding-right: 7.5rem;
 }
 
 .custom-control-inline {
