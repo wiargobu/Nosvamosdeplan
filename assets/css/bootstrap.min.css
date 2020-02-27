@@ -3600,7 +3600,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
     }
 
     .custom-control-input:disabled ~ .custom-control-label {
-        color: #6c757d
+        color: #ffffff
     }
 
         .custom-control-input:disabled ~ .custom-control-label::before {
