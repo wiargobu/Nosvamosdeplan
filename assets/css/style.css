@@ -163,9 +163,9 @@ p {
  
   background: -webkit-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
   background: -o-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
-  background: linear-gradient(to right, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);*/
+  background: linear-gradient(to right, #33c8c1 0%, #fe6e9a 50%, #dc3545 100%);*/ 
   
-  background: #654ea3;  /* fallback for old browsers */
+  /*background: #654ea3;  /* fallback for old browsers */
    /*background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
    /*background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   /*
