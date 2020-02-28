@@ -161,8 +161,8 @@ p {
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
  
-  background: -webkit-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
-  background: -o-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
+  background: -webkit-linear-gradient(left, #fe6e9a 0%, #fe6e9a 50%, #dc3545 100%);
+  background: -o-linear-gradient(left, #fe6e9a 0%, #fe6e9a 50%, #dc3545 100%);
   background: linear-gradient(to right, #fe6e9a 0%, #fe6e9a 50%, #dc3545 100%);*/ 
   
   /*background: #654ea3;  /* fallback for old browsers */
