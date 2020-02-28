@@ -160,9 +160,22 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
+  /*
   background: -webkit-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
   background: -o-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
-  background: linear-gradient(to right, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
+  background: linear-gradient(to right, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);*/
+  /*
+  background: #654ea3;  /* fallback for old browsers */
+  /*background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+  /*background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /*
+  background: #FC5C7D;  /* fallback for old browsers */
+  /*background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
+  /*background: linear-gradient(to right, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #FC466B;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   background-size: 200%; }
   .main-btn:hover {
     color: #fff;
