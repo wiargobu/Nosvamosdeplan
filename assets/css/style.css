@@ -161,9 +161,9 @@ p {
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
  
-  background: -webkit-linear-gradient(left, #fe6e9a 0%, #fe6e9a 50%, #dc3545 100%);
-  background: -o-linear-gradient(left, #fe6e9a 0%, #fe6e9a 50%, #dc3545 100%);
-  background: linear-gradient(to right, #fe6e9a 0%, #fe6e9a 50%, #dc3545 100%);*/ 
+  background: -webkit-linear-gradient(left, #dc3545 0%, #fe6e9a 50%, #dc3545 100%);
+  background: -o-linear-gradient(left, #dc3545 0%, #fe6e9a 50%, #dc3545 100%);
+  background: linear-gradient(to right, #dc3545 0%, #fe6e9a 50%, #dc3545 100%);*/ 
   
   /*background: #654ea3;  /* fallback for old browsers */
    /*background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
