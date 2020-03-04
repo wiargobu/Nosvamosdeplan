@@ -37,6 +37,16 @@
     margin-bottom: -30px;
 }
 
+.mb--18{
+  margin-bottom: -18px;
+}
+.mb--10{
+  margin-bottom: -10px;
+}
+.mb--4{
+  margin-bottom: -4px;
+}
+
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Lato:300,400,700&display=swap");
 body {
   background-image: url(https://github.com/wiargobu/Nosvamosdeplan/blob/master/assets/images/NosvamosdePlan.png);
@@ -163,7 +173,7 @@ p {
  
   background: -webkit-linear-gradient(left, #dc3545 0%, #fe6e9a 50%, #dc3545 100%);
   background: -o-linear-gradient(left, #fe6e9a 0%, #dc3545 50%, #fe6e9a 100%);
-  background: linear-gradient(to right, #dc3545 0%, #fe6e9a 50%, #dc3545 100%);*/ 
+  background: linear-gradient(to right, #dc3545 0%, #fe6e9a 50%, #dc3545 100%);
   
   /*background: #654ea3;  /* fallback for old browsers */
    /*background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
