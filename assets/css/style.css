@@ -36,17 +36,6 @@
     color : #ffffff;
     margin-bottom: -30px;
 }
-.pt-15{
-    padding-top: 15px;
-.mb--18{
-  margin-bottom: -18px;
-}
-.mb--10{
-  margin-bottom: -10px;
-}
-.mb--4{
-  margin-bottom: -4px;
-}
 
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Lato:300,400,700&display=swap");
 body {
